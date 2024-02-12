@@ -16,8 +16,8 @@ I am a passionate Information Systems Engineer and Front End Developer with over
 	- Bootstrap
 	- Material
 	- GraphQL
- 	- Apollo 
-        - SSR
+ 	- Apollo
+  	- SSR
 - **Backend Development**
 	- TypeORM
  	- Express
