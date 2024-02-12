@@ -30,10 +30,9 @@ Are you ready to create something amazing? Let's make it happen.
   	- Node.js
   	- Lambda
 - **DevOps**
-  AWS
-  - S3 bucket
-  - Amplify
-  - CloudFrom
+  - AWS S3 bucket
+  - AWS Amplify
+  - AWS CloudFrom
 	
 
 ## What I want to do next :thinking:
