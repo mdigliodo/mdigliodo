@@ -20,15 +20,15 @@ I am a passionate Information Systems Engineer and Front End Developer with over
         - SSR
 - **Backend Development**
 	- TypeORM
-        - Express
-        - Serverless
-        - Node.js
-        - Lambda
+ 	- Express
+  	- Serverless
+  	- Node.js
+  	- Lambda
 - **DevOps**
-        - AWS
-  	  - S3 bucket
-          - Amplify
-  	  - CloudFrom
+  AWS
+  - S3 bucket
+  - Amplify
+  - CloudFrom
 	
 
 ## What I want to do next :thinking:
