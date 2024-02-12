@@ -6,7 +6,12 @@
 -->
 
 ## About me :mortar_board:
-I am a passionate Information Systems Engineer and Front End Developer with over 4 years of experience. This passion has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**.
+<!-- I am a passionate Information Systems Engineer and Front End Developer with over 4 years of experience. This passion has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. -->
+I proudly introduce myself as an Information Systems Engineer and Front-End Developer, boasting a rich tapestry of over 5 years in the field. Fuelled by an insatiable passion for technology, I've cultivated not just expertise but a profound technological mindset, shaping me into a relentless seeker of knowledge. My journey thus far has instilled in me the unyielding belief that there's always more to learn.
+
+Let's embark on a journey of innovation and collaboration, where our combined expertise and boundless curiosity converge to create something truly extraordinary. Together, we can transcend boundaries and shape the future of technology.
+
+Are you ready to create something amazing? Let's make it happen.
 
 ## What I know :computer:
 - **Frontend Development**
