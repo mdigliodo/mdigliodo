@@ -36,7 +36,7 @@ Are you ready to create something amazing? Let's make it happen.
 	
 
 ## What I want to do next :thinking:
-- Sr. Backend Development (to become a Sr. Full-Stack developer)
+- Sr. Backend Developer (to become a Sr. Full-Stack developer)
 - Learn more about AWS (I already know the basics but still enhancing them)
 
 ## Reach me 
