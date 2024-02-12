@@ -1,4 +1,4 @@
-# Welcome to my github! 👋
+# Welcome to my GitHub! 👋
 <!--
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
@@ -11,15 +11,29 @@ I am a passionate Information Systems Engineer and Front End Developer with over
 ## What I know :computer:
 - **Frontend Development**
 	- Angular CLI
-	- HTML, CSS and Javascript
+	- HTML, CSS, Typescript and Javascript
+ 	- RxJS 
 	- Bootstrap
 	- Material
 	- GraphQL
+ 	- Apollo 
+        - SSR
+- **Backend Development**
+	- TypeORM
+        - Express
+        - Serverless
+        - Node.js
+        - Lambda
+- **DevOps**
+        - AWS
+  	  - S3 bucket
+          - Amplify
+  	  - CloudFrom
 	
 
 ## What I want to do next :thinking:
-- Backend Development (to become a Full-Stack developer)
-- Unlock the secret to the universe :rofl:
+- Sr. Backend Development (to become a Sr. Full-Stack developer)
+- Learn more about AWS (I already know the basics but still enhancing them)
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/mdigliodo?label=Follow&style=social)](https://github.com/mdigliodo)
@@ -27,11 +41,5 @@ I am a passionate Information Systems Engineer and Front End Developer with over
 [![Linkedin](https://img.shields.io/badge/-Mateo%20Digliodo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateodigliodo/)](https://www.linkedin.com/in/mateodigliodo/)
 [![Mail](https://img.shields.io/badge/-Mateo%20Digliodo-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/mateodigliodo/)](mailto:mdigliodo@gmail.com)
 
-<!--
-### Interesting stats
-
-![Diglio's stats](https://github-readme-stats.vercel.app/api?username=mdigliodo&show_icons=true)
-
--->
 
 Thanks for stopping by! 😁
