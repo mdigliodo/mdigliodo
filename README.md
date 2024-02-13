@@ -32,7 +32,8 @@ Are you ready to create something amazing? Let's make it happen.
 - **DevOps**
   - AWS S3 bucket
   - AWS Amplify
-  - AWS CloudFrom
+  - AWS CloudFront
+  - AWS Route 53
 	
 
 ## What I want to do next :thinking:
