@@ -38,7 +38,7 @@ Are you ready to create something amazing? Let's make it happen.
 
 ## What I want to do next :thinking:
 - Sr. Backend Developer (to become a Sr. Full-Stack developer)
-- Learn more about AWS (I already know the basics but still enhancing them)
+- Still enhancing AWS skills
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/mdigliodo?label=Follow&style=social)](https://github.com/mdigliodo)
