@@ -16,6 +16,8 @@ Are you ready to create something amazing? Let's make it happen.
 ## What I know :computer:
 - **Frontend Development**
 	- Angular CLI
+  	- React
+	- React Native
 	- HTML, CSS, Typescript and Javascript
  	- RxJS 
 	- Bootstrap
