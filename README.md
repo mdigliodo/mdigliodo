@@ -16,8 +16,6 @@ Are you ready to create something amazing? Let's make it happen.
 ## What I know :computer:
 - **Frontend Development**
 	- Angular CLI
-  	- React
-	- React Native
 	- HTML, CSS, Typescript and Javascript
  	- RxJS 
 	- Bootstrap
@@ -26,6 +24,7 @@ Are you ready to create something amazing? Let's make it happen.
  	- Apollo
   	- SSR
 - **Backend Development**
+  	- NestJs
 	- TypeORM
  	- Express
   	- Serverless
@@ -36,6 +35,7 @@ Are you ready to create something amazing? Let's make it happen.
   - AWS Amplify
   - AWS CloudFront
   - AWS Route 53
+  - AWS IoT Core
 	
 
 ## What I want to do next :thinking:
