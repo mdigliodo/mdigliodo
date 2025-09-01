@@ -26,8 +26,7 @@ I proudly introduce myself as an Information Systems Engineer and Front-End Deve
 Are you ready to create something amazing? 
 
 ## Reach me 
-[![Github](https://img.shields.io/github/followers/mdigliodo?label=Follow&style=social)](https://github.com/mdigliodo)
-[![Instagram](https://img.shields.io/badge/-@mdigliodo-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mdigliodo/)](https://www.instagram.com/mdigliodo/)
+[![Github](https://img.shields.io/github/followers/mdigliodo?label=Follow&style=social)](https://mateodigliodo.com)
 [![Linkedin](https://img.shields.io/badge/-Mateo%20Digliodo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateodigliodo/)](https://www.linkedin.com/in/mateodigliodo/)
 [![Mail](https://img.shields.io/badge/-Mateo%20Digliodo-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/mateodigliodo/)](mailto:mdigliodo@gmail.com)
 
