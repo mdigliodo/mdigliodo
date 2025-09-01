@@ -26,7 +26,7 @@ I proudly introduce myself as an Information Systems Engineer and Front-End Deve
 Are you ready to create something amazing? 
 
 ## Reach me 
-[![Porfolio](https://img.shields.io/badge/-Mateo%20Digliodo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateodigliodo/)](https://mateodigliodo.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateodigliodo/)](https://mateodigliodo.com)
 [![Linkedin](https://img.shields.io/badge/-Mateo%20Digliodo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateodigliodo/)](https://www.linkedin.com/in/mateodigliodo/)
 [![Mail](https://img.shields.io/badge/-Mateo%20Digliodo-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/mateodigliodo/)](mailto:mdigliodo@gmail.com)
 
