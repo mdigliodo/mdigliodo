@@ -14,11 +14,11 @@ Let's embark on a journey of innovation and collaboration, where our combined ex
 Are you ready to create something amazing? Let's make it happen.
 
 ## My skills :computer:
-Programming: TypeScript, Javascript, CSS
-Frameworks: Angular, VueJs, NestJs, Express
-Libraries: Tailwind, Bootstrap, Material, PrimeNg 
-Testing tools: Jest, Cypress, Playground
-Soft skills: Friendly, outside the box, collaborative, open-minded, productive
+- Programming: TypeScript, Javascript, CSS
+- Frameworks: Angular, VueJs, NestJs, Express
+- Libraries: Tailwind, Bootstrap, Material, PrimeNg 
+- Testing tools: Jest, Cypress, Playground
+- Soft skills: Friendly, outside the box, collaborative, open-minded, productive
 	
 
 ## What I want to do next :thinking:
