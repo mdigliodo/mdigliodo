@@ -9,9 +9,7 @@
 <!-- I am a passionate Information Systems Engineer and Front End Developer with over 4 years of experience. This passion has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. -->
 I proudly introduce myself as an Information Systems Engineer and Front-End Developer, drawing from over 5 years of hands-on experience in the field. Fuelled by an insatiable passion for technology, I've cultivated not just expertise but a profound technological mindset, shaping me into a relentless seeker of knowledge. My journey thus far has instilled in me the unyielding belief that there's always more to learn.
 
-Let's embark on a journey of innovation and collaboration, where our combined expertise and boundless curiosity converge to create something truly extraordinary. Together, we can transcend boundaries and shape the future of technology.
 
-Are you ready to create something amazing? Let's make it happen.
 
 ## My skills :computer:
 - Programming: TypeScript, Javascript, CSS
@@ -19,11 +17,13 @@ Are you ready to create something amazing? Let's make it happen.
 - Libraries: Tailwind, Bootstrap, Material, PrimeNg 
 - Testing tools: Jest, Cypress, Playground
 - Soft skills: Friendly, outside the box, collaborative, open-minded, productive
-	
 
-## What I want to do next :thinking:
-- Sr. Backend Developer (to become a Sr. Full-Stack developer)
-- Still enhancing AWS skills
+## I'm currently...
+- Studing CloudComputing
+- Working at Minsait
+- Leading a frontend team
+
+Are you ready to create something amazing? 
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/mdigliodo?label=Follow&style=social)](https://github.com/mdigliodo)
@@ -33,3 +33,5 @@ Are you ready to create something amazing? Let's make it happen.
 
 
 Thanks for stopping by! 😁
+
+Let's make it happen.
