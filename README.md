@@ -13,29 +13,12 @@ Let's embark on a journey of innovation and collaboration, where our combined ex
 
 Are you ready to create something amazing? Let's make it happen.
 
-## What I know :computer:
-- **Frontend Development**
-	- Angular CLI
-	- HTML, CSS, Typescript and Javascript
- 	- RxJS 
-	- Bootstrap
-	- Material
-	- GraphQL
- 	- Apollo
-  	- SSR
-- **Backend Development**
-  	- NestJs
-	- TypeORM
- 	- Express
-  	- Serverless
-  	- Node.js
-  	- Lambda
-- **DevOps**
-  - AWS S3 bucket
-  - AWS Amplify
-  - AWS CloudFront
-  - AWS Route 53
-  - AWS IoT Core
+## My skills :computer:
+Programming: TypeScript, Javascript, CSS
+Frameworks: Angular, VueJs, NestJs, Express
+Libraries: Tailwind, Bootstrap, Material, PrimeNg 
+Testing tools: Jest, Cypress, Playground
+Soft skills: Friendly, outside the box, collaborative, open-minded, productive
 	
 
 ## What I want to do next :thinking:
